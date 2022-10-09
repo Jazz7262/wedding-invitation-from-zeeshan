@@ -28,10 +28,6 @@ function Couple() {
                                 data-target="#carouselIndicators"
                                 data-slide-to="2"
                             ></li>
-                            <li
-                                data-target="#carouselIndicators"
-                                data-slide-to="3"
-                            ></li>
                         </ol>
                         <div className="carousel-inner">
                             <div className="carousel-item active">
