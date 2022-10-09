@@ -84,7 +84,9 @@ function Couple() {
                         </a>
                     </div>
                     <div className="info groom-info">
-                        <h3>P. Shaikh Sha Vali</h3>
+                        <h3>
+                            P. Shaikh Sha Vali<sub>B.Com. Computers,</sub>
+                        </h3>
 
                         <p className="mt-2">
                             <strong>Profession: AC Technician,</strong>
